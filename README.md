@@ -2,10 +2,9 @@
 
 <h2>About me</h2>
 
-I hold a bachelor’s degree in Computer Science and Engineering. As an undergrad, I have interned at QuLabs and Qkrishi, two of India’s leading quantum computing startups. I am an incoming Junior Research Fellow for the Department of Science and Technology (DST), Government of India Funded project “Simulating Photophysics and Photochemistry on Noisy Intermediate-Scale Quantum Computers" at SRM University, AP. </br>
-<!-- I have always been a science guy. From watching “Cosmos: A Spacetime Odyssey” as a kid, to competing in science and math Olympiads in high school, I have always been fascinated by the mysteries of the universe. Questions like ”Are we alone in the universe?”; ”What’s the origin of life?”; ”What’s the nature of reality?” keeps me awake at night, curious and humble. I may never find the answers, but I know science is the path to seek them. </br> -->
-
-Quantum Computing being at the intersection of Computer Science, Physics, and Mathematics, naturally pulled me in. It fascinates me how transformative Quantum technology, once mature, will be; and having the opportunity to contribute and work towards its development at this early stage is a privilege. I hope to join the **IBM Quantum Research Team** for my Ph.D. and wish to be a meaningful contributor and lifelong participant in the Quantum Community.
+Computer Science Engineer who's passionate about Quantum Technology and Physics.<br>
+Quantum Researcher & Developer at [QUBRID LLC](https://www.qubrid.com/) <br>
+Ex-Intern [Qulabs](https://www.qulabs.ai/) & [Qkrishi](https://qkrishi.com/) <br>
 
 
 ## Tools & Statistics 🛠️
